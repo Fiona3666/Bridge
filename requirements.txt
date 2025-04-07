@@ -1,5 +1,5 @@
 streamlit
-maplotlib
+matplotlib
 pillow
 pandas
-numply
+numpy
